@@ -1,1 +1,1 @@
-{"array":[{"name":"circus","version":"1.1","description":"Національний цирк України"},{"name":"library","version":"1.1","description":"Національна Бібліотека України"}]}
+{"array":[{"name":"circus","version":"1.1","description":"Національний цирк України"},{"name":"library","version":"1.1","description":"Національна Бібліотека України"},{"name":"teacher","version":"1.0","description":"Київський міський будинок учителя"}]}
